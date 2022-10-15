@@ -1,0 +1,9 @@
+D:\ANN\AI_Game1\AI_Game1\bin\Debug\AI_Game1.exe.config
+D:\ANN\AI_Game1\AI_Game1\obj\Debug\AI_Game1.Form1.resources
+D:\ANN\AI_Game1\AI_Game1\obj\Debug\AI_Game1.Properties.Resources.resources
+D:\ANN\AI_Game1\AI_Game1\obj\Debug\AI_Game1.csproj.GenerateResource.Cache
+D:\ANN\AI_Game1\AI_Game1\bin\Debug\AI_Game1.exe
+D:\ANN\AI_Game1\AI_Game1\bin\Debug\AI_Game1.pdb
+D:\ANN\AI_Game1\AI_Game1\obj\Debug\AI_Game1.exe
+D:\ANN\AI_Game1\AI_Game1\obj\Debug\AI_Game1.pdb
+D:\ANN\AI_Game1\AI_Game1\obj\Debug\AI_Game1.csprojResolveAssemblyReference.cache
